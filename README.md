@@ -1,4 +1,6 @@
-# Implementation using Genetic Algorithm with Neural Network
+# Using algorithms:
+* Genetic Algorithm with Neural Network
+* Policy Gradient
 
 ### OpenAI environment:
 * CartPole-v1
